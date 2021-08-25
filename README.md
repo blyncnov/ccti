@@ -4,6 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+# Demo link Open 
+click [https://ccti.netlify.app/](https://ccti.netlify.app/) to view demo in the browser.
+
+
+# Screenshot Demo
+![localhost_3000_(iPhone X) (3)](https://user-images.githubusercontent.com/66668114/130775220-581aab30-d91c-4e9a-a2a0-704cdbf98d46.png)
+
+![localhost_3000_ (1)](https://user-images.githubusercontent.com/66668114/130775227-9f598e74-71d4-4e70-a98a-7927340c72d6.png)
+
+
 In the project directory, you can run:
 
 ### `npm start`
