@@ -15,7 +15,7 @@ const Instructors = () => {
                             <div className="image__box">
                             </div>
                             <br />
-                            <h4>Dolapo Denken</h4>
+                            <h4>Akamo Dolapo</h4>
                             <p>Web developer</p>
                             <br />
                         </div>
@@ -24,8 +24,8 @@ const Instructors = () => {
                             <div className="image__box">
                             </div>
                             <br />
-                            <h4>Ogundana Ayomide</h4>
-                            <p>Microsoft Litrate</p>
+                            <h4>Agbaje Isreal</h4>
+                            <p>Graphics Designs</p>
                             <br />
                         </div>
 
@@ -33,7 +33,16 @@ const Instructors = () => {
                             <div className="image__box">
                             </div>
                             <br />
-                            <h4>Mr. Teslim Balogun</h4>
+                            <h4>Ogundana Ayomide</h4>
+                            <p>Creative Director</p>
+                            <br />
+                        </div>
+
+                        <div className="instruction__box">
+                            <div className="image__box">
+                            </div>
+                            <br />
+                            <h4>Ashaluwala kazeem</h4>
                             <p>Mobile App developer</p>
                             <br />
                         </div>
@@ -42,7 +51,7 @@ const Instructors = () => {
                             <div className="image__box">
                             </div>
                             <br />
-                            <h4>Mr. Teslim Balogun</h4>
+                            <h4>Agbakosi Adeoluwa</h4>
                             <p>Product Designer</p>
                             <br />
                         </div>
