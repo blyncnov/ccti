@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  font-size: 16px;
+  background-color: rgb(246, 245, 248);
+  font-family: "Work Sans", sans-serif;
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.constraint__space {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+.btn {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  color: white;
+  border-radius: 5px;
+  padding: 1em 2em;
+  font-weight: 500;
+  font-family: "Work Sans", sans-serif;
+  background-color: rgb(61, 0, 160);
+}
+
+.footer {
+  background-color: transparent;
+  padding: 1.5em;
+  text-align: center;
+}

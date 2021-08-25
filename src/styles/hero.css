@@ -1,0 +1,44 @@
+.hero__row h1 {
+  font-size: 2em;
+  color: rgb(95, 0, 173);
+  line-height: 1.2;
+  font-family: "Work Sans", sans-serif;
+}
+
+.hero__row p {
+  line-height: 1.6;
+  margin: 1em 0;
+  font-weight: 500;
+  color: rgb(14, 10, 0);
+}
+
+.hero__column {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero__row .btn {
+  color: white;
+}
+
+.hero__row {
+  margin-top: 3em;
+  flex-basis: 50%;
+}
+
+.hero__row img {
+  max-width: 100%;
+  width: 100%;
+  height: 500px;
+}
+
+@media (max-width: 760px) {
+  .hero__column {
+    flex-direction: column;
+  }
+
+  .hero__row img {
+    height: auto;
+  }
+}

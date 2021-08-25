@@ -1,0 +1,12 @@
+.lectures p {
+  margin: 1em 0;
+}
+
+a {
+  color: white;
+  font-family: "Work Sans", sans-serif;
+}
+
+.ongoing__row {
+  padding: 0 1em;
+}
