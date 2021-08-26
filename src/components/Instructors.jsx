@@ -13,6 +13,8 @@ const Instructors = () => {
                     <div className="instruction__row">
                         <div className="instruction__box">
                             <div className="image__box">
+                                <img className="image__image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPCl7YyaSPG3tOkDAdu1rqa4-0Yv8Z9E0Rbw&usqp=CAU" alt="instructors" />
+
                             </div>
                             <br />
                             <h4>Akamo Dolapo</h4>
@@ -22,6 +24,7 @@ const Instructors = () => {
 
                         <div className="instruction__box">
                             <div className="image__box">
+                                <img className="image__image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPCl7YyaSPG3tOkDAdu1rqa4-0Yv8Z9E0Rbw&usqp=CAU" alt="instructors" />
                             </div>
                             <br />
                             <h4>Agbaje Isreal</h4>
@@ -31,6 +34,8 @@ const Instructors = () => {
 
                         <div className="instruction__box">
                             <div className="image__box">
+                                <img className="image__image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPCl7YyaSPG3tOkDAdu1rqa4-0Yv8Z9E0Rbw&usqp=CAU" alt="instructors" />
+
                             </div>
                             <br />
                             <h4>Ogundana Ayomide</h4>
@@ -40,6 +45,8 @@ const Instructors = () => {
 
                         <div className="instruction__box">
                             <div className="image__box">
+                                <img className="image__image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPCl7YyaSPG3tOkDAdu1rqa4-0Yv8Z9E0Rbw&usqp=CAU" alt="instructors" />
+
                             </div>
                             <br />
                             <h4>Ashaluwala kazeem</h4>
@@ -49,6 +56,7 @@ const Instructors = () => {
 
                         <div className="instruction__box">
                             <div className="image__box">
+                                <img className="image__image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPCl7YyaSPG3tOkDAdu1rqa4-0Yv8Z9E0Rbw&usqp=CAU" alt="instructors" />
                             </div>
                             <br />
                             <h4>Agbakosi Adeoluwa</h4>
